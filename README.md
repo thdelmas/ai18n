@@ -128,7 +128,7 @@ Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial t
 
 ### Have **time** but no budget? 
 
-**Become an Open Source Hacker! 🧑‍💻**
+**🧑‍💻 Become an Open Source Hacker! 🧑‍💻**
 > **Code**, **Test**, or **Improve docs**—drive progress.
 
 1. **Check out [open bounties](https://bount.ing)**
@@ -138,7 +138,7 @@ Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial t
 5. **Claim your reward**
 
 ### Short on **time** but have a **budget**?  
-**Be an Angel! 💸** 
+**💸 Be an Angel! 💸** 
 - Visit [Bount.ing](https://bount.ing) to **raise** or **create bounties**.
 - **Support the project**, solve your issues and make an impact.
 
