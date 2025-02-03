@@ -143,6 +143,7 @@ Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial t
 - **Support the project**, solve your issues and make an impact.
 
 Whether you’re coding, sponsoring, or both, every contribution counts! 🌟
+
 ---
 
 ## 📄 License  
@@ -150,4 +151,5 @@ This project is licensed under the **MIT License**.
 Feel free to use, modify, and distribute! 🚀  
 
 ---
+
 🚀 **Happy Translating!** 🚀  
