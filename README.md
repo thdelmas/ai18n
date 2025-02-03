@@ -116,12 +116,29 @@ This processes **500 items at a time**, preventing **API timeouts**.
 
 ---
 
-## 🛠 Development & Contributions  
+## 🤝 Contributing & Earning Opportunities  
+
+We **welcome contributions** from everyone! Whether you're looking to learn, share your expertise, or simply help improve the project, there are multiple ways to get involved:
+
+- **Report issues**: Found a bug or have an idea for a new feature? Open an issue and let us know!
+- **Submit a pull request**: If you can improve the code, documentation, or features, we’d love to review your changes. Fork the repo, create a branch, and submit your PR.
+- **Improve the docs**: Even small contributions to documentation can make a big difference!
+
+### 🛠 Development & Contributions  
 We welcome contributions! If you'd like to improve `ai18n`:
 
 1. **Fork the repository**
 2. **Create a new branch**
 3. **Submit a pull request (PR)** with your changes.
+
+
+#### 💰 Bounties: Contribute Your Time or Budget  
+If you have **time but not budget**, you can contribute by **coding**, **testing**, or **improving documentation**. It’s a great opportunity to learn while making a real impact on the project.
+
+If you’re **short on time but have a budget**, you can check out [Bount.ing](https://bount.ing) to see open bounties, or even create your own bounty for specific tasks you’d like completed. It’s an easy way to **support the project** and **get tasks done** without needing to do the work yourself.
+
+No matter your situation, there’s a way for you to get involved. Whether you're learning, teaching, or funding, we appreciate every contribution. 🌟
+
 
 ### **💡 Planned Features**
 ✅ **Parallel processing for faster translations**  
