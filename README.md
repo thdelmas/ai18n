@@ -116,7 +116,7 @@ This processes **500 items at a time**, preventing **API timeouts**.
 
 ---
 
-## 🤝 Contributing 🛠
+## 🛠 Contributing 🤝
 
 **Join the mission!**
 
