@@ -116,17 +116,17 @@ This processes **500 items at a time**, preventing **API timeouts**.
 
 ---
 
-## 🤝 Contributing & Earning Opportunities  
+## 🤝 Contributing 🛠
 
-**Join the mission!** Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial to our success.
+**Join the mission!**
+
+Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial to our success.
 
 - **Found a bug?** Report it!
 - **Got an idea?** Open an issue!
 - **Want to improve code or docs?** Submit a PR!
 
-### 🛠 How to Contribute 
-
-#### Have **time** but no budget? 
+### Have **time** but no budget? 
 
 **Become an Open Source Hacker! 🧑‍💻**
 > **Code**, **Test**, or **Improve docs**—drive progress.
@@ -137,7 +137,7 @@ This processes **500 items at a time**, preventing **API timeouts**.
 4. **Submit a pull request**
 5. **Claim your reward**
 
-#### Short on **time** but have a **budget**?  
+### Short on **time** but have a **budget**?  
 **Be an Angel! 💸** 
 - Visit [Bount.ing](https://bount.ing) to **raise** or **create bounties**.
 - **Support the project**, solve your issues and make an impact.
