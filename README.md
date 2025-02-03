@@ -118,34 +118,31 @@ This processes **500 items at a time**, preventing **API timeouts**.
 
 ## 🤝 Contributing & Earning Opportunities  
 
-We **welcome contributions** from everyone! Whether you're looking to learn, share your expertise, or simply help improve the project, there are multiple ways to get involved:
+**Join the mission!** Whether you’re a **warrior coder** or an **angel sponsor**, you’re crucial to our success.
 
-- **Report issues**: Found a bug or have an idea for a new feature? Open an issue and let us know!
-- **Submit a pull request**: If you can improve the code, documentation, or features, we’d love to review your changes. Fork the repo, create a branch, and submit your PR.
-- **Improve the docs**: Even small contributions to documentation can make a big difference!
+- **Found a bug?** Report it!
+- **Got an idea?** Open an issue!
+- **Want to improve code or docs?** Submit a PR!
 
-### 🛠 Development & Contributions  
-We welcome contributions! If you'd like to improve `ai18n`:
+### 🛠 How to Contribute 
 
-1. **Fork the repository**
-2. **Create a new branch**
-3. **Submit a pull request (PR)** with your changes.
+#### Have **time** but no budget? 
 
+**Become an Open Source Hacker! 🧑‍💻**
+> **Code**, **Test**, or **Improve docs**—drive progress.
 
-#### 💰 Bounties: Contribute Your Time or Budget  
-If you have **time but not budget**, you can contribute by **coding**, **testing**, or **improving documentation**. It’s a great opportunity to learn while making a real impact on the project.
+1. **Check out [open bounties](https://bount.ing)**
+2. **Fork the repo**
+3. **Create a new branch**
+4. **Submit a pull request**
+5. **Claim your reward**
 
-If you’re **short on time but have a budget**, you can check out [Bount.ing](https://bount.ing) to see open bounties, or even create your own bounty for specific tasks you’d like completed. It’s an easy way to **support the project** and **get tasks done** without needing to do the work yourself.
+#### Short on **time** but have a **budget**?  
+**Be an Angel! 💸** 
+- Visit [Bount.ing](https://bount.ing) to **raise** or **create bounties**.
+- **Support the project**, solve your issues and make an impact.
 
-No matter your situation, there’s a way for you to get involved. Whether you're learning, teaching, or funding, we appreciate every contribution. 🌟
-
-
-### **💡 Planned Features**
-✅ **Parallel processing for faster translations**  
-✅ **Streaming large file translations**  
-🟡 **Support for more structured file formats (YAML, XML, CSV, etc.)**  
-🟡 **Add caching to avoid redundant API calls**  
-
+Whether you’re coding, sponsoring, or both, every contribution counts! 🌟
 ---
 
 ## 📄 License  

@@ -31,6 +31,7 @@ def translate_text(api_key, text, source_lang, target_lang):
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": f"You are a translator from {source_lang} to {target_lang}."},
+            {"role": "system", "content": f"You must and will give only the translation without more information or explaination."},
             {"role": "user", "content": text}
         ],
         max_tokens=2048,  # Ensure safe token usage
