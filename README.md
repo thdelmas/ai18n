@@ -2,29 +2,20 @@
 **Effortless file translations using OpenAI's API**  
 
 `ai18n.py` is a command-line tool designed for **translating text and JSON files** into multiple languages using OpenAI's AI models. It supports **automatic language detection**, **large file handling**, and **configuration via `.env` or `config.yaml`**.
-
----
-
-## ✨ Features  
-✅ **Supports multiple languages** (English, French, Spanish, Catalan, Euskera)  
-✅ **Automatic source language detection** (if not specified)  
-✅ **Handles large JSON files** with **chunking** to prevent API limits  
-✅ **Secure API key management** using `.env` or `config.yaml`  
-✅ **Simple command-line interface (CLI)** for easy translations  
-✅ **Maintains JSON structure while translating text**  
-
 ---
 
 ## 📥 Installation  
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone git@github.com:thdelmas/ai18n.git
+git clone git@github.com:thdelmas/ai18n.git &&
 cd ai18n
 ```
 
 ### 2️⃣ Install Dependencies  
 ```sh
+python3 -m venv .venv &&
+source .venv/bin/activate &&
 pip install -r requirements.txt
 ```
 
@@ -51,6 +42,11 @@ OPENAI_API_KEY: your_api_key_here
 python3 ai18n.py input.txt output.txt --target_language fr
 ```
 This translates `input.txt` into **French** and saves it as `output.txt`.
+
+Example:
+```sh
+./ai18n.py ~/Bount.ing/webapp/src/locales/en.json ~/Bount.ing/webapp/src/locales/ca.json --target_language ca
+```
 
 ### **2️⃣ Translate a JSON File (Handles Large JSON Automatically)**
 ```sh
